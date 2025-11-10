@@ -16,20 +16,27 @@ End-to-End notebook (EDA → Preprocessing → Training → Metrics → Interpre
 Deployment ready app.py (Streamlit UI)
 
 🧠 Machine Learning Models Used
-Model	Status
+Model	Status:
+
 Logistic Regression	✅ Trained
+
 Decision Tree	✅ Trained
+
 Random Forest	✅ Best Model
+
 Gradient Boosting	✅ Trained
+
 KNN	✅ Trained
 
-✅ Final Business Output
+
+ Final Business Output
 
 Final model predicts Loan Status
 
 1 = Approved
 
 0 = Not Approved
+
 
 📊 Final Loan Status Prediction Summary Example
 
