@@ -3,6 +3,8 @@
 
 Predict whether a person’s loan application will be Approved (1) or Not Approved (0) based on demographic, financial and credit history data.
 
+
+
 🔥 Features:
 
 Clean training dataset (loan_data.csv)
@@ -14,6 +16,9 @@ Best model selected → Random Forest
 End-to-End notebook (EDA → Preprocessing → Training → Metrics → Interpretation)
 
 Deployment ready app.py (Streamlit UI)
+
+
+
 
 🧠 Machine Learning Models Used
 Model	Status:
@@ -29,6 +34,9 @@ Gradient Boosting	✅ Trained
 KNN	✅ Trained
 
 
+
+
+
  Final Business Output
 
 Final model predicts Loan Status:
@@ -36,6 +44,9 @@ Final model predicts Loan Status:
 1 = Approved
 
 0 = Not Approved
+
+
+
 
 
 📊 Final Loan Status Prediction Summary Example:
